@@ -208,31 +208,7 @@ const PageComponent = ({
               </div>
             </div>
 
-            <div className={"border-[14px] border-[#ffffff1f] object-fill w-[90%] mx-auto mt-8"}>
-              <div className={"mx-auto bg-white py-8"}>
-                <div className={"pb-2 border-b-2"}>
-                  <h2
-                    className={"text-blue-500 pt-4 text-4xl flex justify-center items-center"}>{questionText.h2_2}</h2>
-                </div>
-                <div className={"w-[96%] text-gray-700 prose mx-auto mt-4"}>
-                  <p>
-                    {questionText.h2_2_p1}
-                  </p>
-                  <p>
-                    {questionText.h2_2_p2}
-                  </p>
-                  <p>
-                    {questionText.h2_2_p3}
-                  </p>
-                  <p>
-                    {questionText.h2_2_p4a}<Link href={"https://sorawebui.com/"}
-                                                 className={"text-blue-500"}>https://sorawebui.com/</Link>{questionText.h2_2_p4b}<Link
-                    href={"https://github.com/SoraWebui/SoraWebui"}
-                    className={"text-blue-500"}>https://github.com/SoraWebui/SoraWebui</Link>.
-                  </p>
-                </div>
-              </div>
-            </div>
+            
 
           </div>
         </div>
