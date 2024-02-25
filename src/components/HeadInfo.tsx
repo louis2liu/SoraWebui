@@ -6,7 +6,7 @@ function MyAdSenseComponent() {
     <>
       <Script
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5044235108503962"
-        strategy="afterInteractive"
+        strategy="lazyOnload"
         crossOrigin="anonymous"
       />
     </>
@@ -50,8 +50,9 @@ const HeadInfo = ({
           }
         })
       }
-      {MyAdSenseComponent}
+      <MyAdSenseComponent />
     </>
+    
   )
 }
 
