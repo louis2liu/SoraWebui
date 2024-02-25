@@ -50,6 +50,7 @@ const HeadInfo = ({
           }
         })
       }
+      <meta name="google-adsense-account" content="ca-pub-5044235108503962"></meta>
       <MyAdSenseComponent />
     </>
     
