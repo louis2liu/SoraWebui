@@ -1,8 +1,6 @@
 <svg width="193" height="32" xmlns="http://www.w3.org/2000/svg">
-
- <g>
+ <g id="Layer_1">
   <title>Layer 1</title>
-  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Asap'" font-size="24" id="svg_1" y="124" x="296" stroke-width="0" stroke="#000" fill="#FABA6F">OpenAISoras</text>
-  <text font-weight="bold" transform="matrix(0.774245 0 0 0.593578 -26.215 9.83408)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Archivo'" font-size="40" id="svg_5" y="24.25381" x="35.87311" stroke-width="0" fill="#ff7f00">OpenAISoras</text>
+  <text transform="matrix(1.29249 0 0 0.970393 -26.5875 -0.012112)" stroke="#000" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Archivo'" font-size="24" id="svg_1" y="25" x="22.80465" stroke-width="0" fill="#e79c28">OpenAISoras</text>
  </g>
 </svg>
