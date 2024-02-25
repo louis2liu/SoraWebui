@@ -3,15 +3,15 @@
     "lang": "ja",
     "language": "日本語",
     "languageInChineseSimple": "日语",
-    "title": "テキストからビデオを生成するためにOpenAIのSoraモデルを使用するウェブサイトです | openaisoras.com",
-    "description": "OpenAISorasは、OpenAIのSoraモデルを使用して、ユーザーがテキストから簡単にビデオを作成できる興味深いウェブサイトです。",
+    "title": "Sora AIアートを探索 - OpenAIのビデオ作成のショーケース | openaisoras.com",
+    "description": "OpenAIのSoraモデルによって動かされる革新的なビデオコレクションを発見してください。ウェブ上のユーザーがSora AIで作成したビデオの選りすぐりをキュレーションし、AIアートの魅力をお届けします",
     "loadingText": "読み込み中...",
     "generateText": "生成中...",
     "buttonText": "生成する",
     "placeholderText": "ここにテキストを入力または貼り付けしてください...",
     "loginText": "ログイン",
     "h1Text": "OpenAISoras",
-    "pDescription": "OpenAISorasは興味深いウェブサイトです。ユーザーはテキストからオンラインでビデオを生成できます。これはOpenAIのSoraモデルを使用して行われ、ビデオ作成を簡素化します。",
+    "pDescription": "OpenAIのSoraモデルによって動かされる革新的なビデオコレクションを発見してください。ウェブ上のユーザーがSora AIで作成したビデオの選りすぐりをキュレーションし、AIアートの魅力をお届けします。OpenAISorasは興味深いウェブサイトです。ユーザーはテキストからオンラインでビデオを生成できます。これはOpenAIのSoraモデルを使用して行われ、ビデオ作成を簡素化します。",
     "soraVideoExample": "Soraによって生成された例のビデオ",
     "prompt": "プロンプト",
     "soraWorksTitle": "作品",
@@ -20,7 +20,7 @@
   },
   "privacyPolicy": {
     "title": "プライバシーポリシー | openaisoras.com",
-    "mainDescription": "OpenAISorasは、OpenAIのSoraモデルを使用して、ユーザーがテキストから簡単にビデオを作成できる興味深いウェブサイトです。",
+    "mainDescription": "OpenAIのSoraモデルによって動かされる革新的なビデオコレクションを発見してください。ウェブ上のユーザーがSora AIで作成したビデオの選りすぐりをキュレーションし、AIアートの魅力をお届けします",
     "h1": "プライバシーポリシー",
     "date": "最終更新日：2024年2月19日",
     "desc": "OpenAISorasを選んでいただきありがとうございます！このプライバシーポリシーでは、当サイトをご利用いただく際の情報の収集、利用、保護方法について説明しています。",
@@ -40,7 +40,7 @@
   },
   "termsOfService": {
     "title": "利用規約 | openaisoras.com",
-    "mainDescription": "OpenAISorasは、OpenAIのSoraモデルを使用して、ユーザーがテキストから簡単にビデオを作成できる興味深いウェブサイトです。",
+    "mainDescription": "OpenAIのSoraモデルによって動かされる革新的なビデオコレクションを発見してください。ウェブ上のユーザーがSora AIで作成したビデオの選りすぐりをキュレーションし、AIアートの魅力をお届けします",
     "h1": "利用規約",
     "date": "最終更新日：2024年2月19日",
     "desc": "これらの利用規約（以下、「本規約」）は、OpenAISoras（以下、「サービス」）へのアクセスおよび利用を規定し、OpenAISoras（以下、「当社」または「私たち」）が提供します。サービスを利用することにより、これらの利用規約に拘束されることに同意します。",
@@ -68,7 +68,7 @@
     "h2_1_p3": "言語理解とビデオ制作の面で印象的なSoraは、クリエイティブプロフェッショナルに革新のための新しいツールを提供します。",
     "h2_1_p4": "詳細な情報は、OpenAIの公式ウェブサイトをご覧ください ",
     "h2_2": "OpenAISorasとは何ですか",
-    "h2_2_p1": "OpenAISorasは、OpenAIのSoraモデルを使用してテキストからビデオを生成するためのオープンソースのWebプラットフォームです。",
+    "h2_2_p1": "OpenAIのSoraモデルによって動かされる革新的なビデオコレクションを発見してください。ウェブ上のユーザーがSora AIで作成したビデオの選りすぐりをキュレーションし、AIアートの魅力をお届けします",
     "h2_2_p2": "これは、ビデオ作成プロセスを簡素化し、簡単な展開と使用を可能にします。",
     "h2_2_p3": "OpenAISorasを使用すると、誰でもテキストを入力するだけでビデオを作成できるため、ビデオ制作とAI技術の両方においてプロフェッショナルや愛好家にとってアクセスしやすいツールになります。",
     "h2_2_p4a": "詳細については、OpenAISorasのウェブサイトをご覧ください ",
@@ -82,14 +82,14 @@
     "title": "作品: ビデオ履歴を生成する。| openaisoras.com",
     "description": "ビデオ履歴を生成する。",
     "h1Text": "OpenAISoras - 作品",
-    "pDescription": "OpenAISorasは興味深いウェブサイトです。ユーザーはテキストからオンラインでビデオを生成できます。これはOpenAIのSoraモデルを使用して行われ、ビデオ作成を簡素化します。",
+    "pDescription": "OpenAIのSoraモデルによって動かされる革新的なビデオコレクションを発見してください。ウェブ上のユーザーがSora AIで作成したビデオの選りすぐりをキュレーションし、AIアートの魅力をお届けします",
     "generateNew": "新しいものを生成する"
   },
   "playgroundPage": {
     "title": "プレイグラウンド: 簡単にビデオを生成する。| openaisoras.com",
     "description": "簡単にビデオを生成する。",
     "h1Text": "OpenAISoras - プレイグラウンド",
-    "pDescription": "OpenAISorasは興味深いウェブサイトです。ユーザーはテキストからオンラインでビデオを生成できます。これはOpenAIのSoraモデルを使用して行われ、ビデオ作成を簡素化します。",
+    "pDescription": "OpenAIのSoraモデルによって動かされる革新的なビデオコレクションを発見してください。ウェブ上のユーザーがSora AIで作成したビデオの選りすぐりをキュレーションし、AIアートの魅力をお届けします",
     "moreWorks": "その他の作品"
   }
 }
