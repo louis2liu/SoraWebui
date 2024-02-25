@@ -3,7 +3,8 @@ import Link from "next/link";
 
 const navigation = {
   product: [
-    {name: 'OpenAISoras', href: 'https://openaisoras.com'}
+    {name: 'OpenAISoras', href: 'https://openaisoras.com'},
+    {name: 'SoraWebUI', href: 'https://github.com/SoraWebui/SoraWebui'}
   ],
   legal: [
     {name: 'Privacy Policy', href: '/privacy-policy'},
