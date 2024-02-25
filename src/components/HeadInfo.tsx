@@ -1,4 +1,5 @@
 import { languages } from "~/config";
+import Script from 'next/script';
 
 function MyAdSenseComponent() {
   return (
