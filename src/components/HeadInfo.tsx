@@ -1,5 +1,17 @@
 import { languages } from "~/config";
 
+function MyAdSenseComponent() {
+  return (
+    <>
+      <Script
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5044235108503962"
+        strategy="afterInteractive"
+        crossOrigin="anonymous"
+      />
+    </>
+  );
+}
+
 const HeadInfo = ({
                     title = "",
                     description = "",
@@ -37,8 +49,7 @@ const HeadInfo = ({
           }
         })
       }
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5044235108503962"
-     crossorigin="anonymous"></script>
+      {MyAdSenseComponent}
     </>
   )
 }
