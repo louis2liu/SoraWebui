@@ -1,5 +1,41 @@
 export const allVideoList = [
   {
+    "number": "g1",
+    "prompt": "a red panda and a toucan are best friends taking a stroll through santorini during the blue hour",
+    "videoUrl": "https://cdn.discordapp.com/attachments/1207972096345505863/1211302950681444362/vMWQSLKN2ELhHaEs.mp4?ex=65edb4c8&is=65db3fc8&hm=56d5f152eb0164caaa85a23658063bc3f26884f258acefbdcdf722bce45d6deb&",
+    "keywords": ""
+  },
+  {
+    "number": "g2",
+    "prompt": "a man BASE jumping over tropical hawaii waters. His pet macaw flies alongside him",
+    "videoUrl": "https://cdn.discordapp.com/attachments/1207972096345505863/1211301917716905984/tD4aszb9pHS-jKeB.mp4?ex=65edb3d2&is=65db3ed2&hm=388f841a781f327f12fc41cf3f925590fed803ffe99d8929621676e5d815806e&",
+    "keywords": ""
+  },
+  {
+    "number": "g3",
+    "prompt": "A dark neon rainforest aglow with fantastical fauna and animals",
+    "videoUrl": "https://cdn.discordapp.com/attachments/1207972096345505863/1211301404019261460/FfGAUrbbhO0vmySa.mp4?ex=65edb357&is=65db3e57&hm=595384a083616767dc8e74f321e2a30cd1bc0f3d296798368d3ed0764a824f0e&",
+    "keywords": ""
+  },
+  {
+    "number": "g4",
+    "prompt": "Close-up of a majestic white dragon with pearlescent, silver-edged scales, icy blue eyes, elegant ivory horns, and misty breath. Focus on detailed facial features and textured scales, set against a softly blurred background",
+    "videoUrl": "https://cdn.discordapp.com/attachments/1207972096345505863/1211300468282888192/-bilRShkN6_ay5mW.mp4?ex=65edb278&is=65db3d78&hm=07984cd3208fc1728b0e8ed4505c15e16b2133dbe20ed443681981c6f9c8e79e&",
+    "keywords": ""
+  },
+  {
+    "number": "g5",
+    "prompt": "a scuba diver discovers a hidden futuristic shipwreck, with cybernetic marine life and advanced alien technology",
+    "videoUrl": "https://cdn.discordapp.com/attachments/1207972096345505863/1211299884775243787/ctCG4SWxJ-nnGU8O.mp4?ex=65edb1ed&is=65db3ced&hm=b5e33ca33bbce7b9db2f18ffc10df64513fdaaed833aac3f27e039ff16b3238f&",
+    "keywords": ""
+  },
+  {
+    "number": "g6",
+    "prompt": "in a beautifully rendered papercraft world, a steamboat travels across a vast ocean with wispy clouds in the sky. vast grassy hills lie in the distant background, and some sealife is visible near the papercraft ocean's surface",
+    "videoUrl": "https://cdn.discordapp.com/attachments/1207972096345505863/1211299120426516520/Hwi06v60NvXsi9MZ.mp4?ex=65edb137&is=65db3c37&hm=099ddbe565661982b9248066b6a92da9663199c94841765e685db99b7a882117&",
+    "keywords": ""
+  },
+  {
     "number": "a1",
     "prompt": "A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about.",
     "videoUrl": "https://cdn.openai.com/sora/videos/tokyo-walk.mp4",
