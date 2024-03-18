@@ -105,41 +105,7 @@ const PageComponent = ({
                 <p className="text-[#7c8aaa] text-xl">{indexLanguageText.pDescription}</p>
               </div>
             </div>
-            <div>
-              <div
-                className={"w-[90%] mx-auto rounded-tl-[30px] rounded-tr-[30px] border-[12px] border-[#ffffff1f] object-fill"}>
-                <form onSubmit={handleSubmit} className="relative shadow-lg">
-                  <div
-                    className="overflow-hidden focus-within:ring-1 focus-within:ring-indigo-500 rounded-tl-[20px] rounded-tr-[20px]">
-                    <textarea
-                      rows={8}
-                      name="description"
-                      id="description"
-                      className="block w-full resize-none border-0 text-gray-900 placeholder:text-gray-400 focus:ring-0 text-lg pt-4 pl-4"
-                      placeholder={indexLanguageText.placeholderText}
-                      value={textStr}
-                      onChange={(e) => {
-                        setTextStr(e.target.value);
-                      }}
-                      maxLength={1000}
-                    />
-                  </div>
-                  <div className="inset-x-px bottom-1 bg-white">
-                    <div
-                      className="flex justify-center items-center space-x-3 border-t border-gray-200 px-2 py-2">
-                      <div className="pt-2 w-1/4">
-                        <button
-                          type="submit"
-                          className="w-full inline-flex justify-center items-center rounded-md bg-[#2d6ae0] px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-blue-800"
-                        >
-                          {indexLanguageText.buttonText}
-                        </button>
-                      </div>
-                    </div>
-                  </div>
-                </form>
-              </div>
-            </div>
+
 
             <div className={"border-[14px] border-[#ffffff1f] object-fill w-[90%] mx-auto mt-8"}>
               <div className={"mx-auto bg-white"}>
