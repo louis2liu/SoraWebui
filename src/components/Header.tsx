@@ -15,9 +15,7 @@ import GeneratingModal from "~/components/GeneratingModal";
 
 const navigation = {
   topMenu: [
-    {name: 'Playground', href: '/playground'},
-    {name: 'Works', href: '/works'},
-    {name: 'Videos', href: '/videos'},
+    {name: 'Videos', href: '/videos'}
   ],
   social: [
     {
